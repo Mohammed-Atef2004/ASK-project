@@ -1,0 +1,7 @@
+﻿  ASK_project.cpp
+D:\visual studio programs\ASK_project\ASK_project\ASK_project.cpp(222,9): error C2065: 'customer': undeclared identifier
+D:\visual studio programs\ASK_project\ASK_project\ASK_project.cpp(222,41): error C2065: 'customer': undeclared identifier
+D:\visual studio programs\ASK_project\ASK_project\ASK_project.cpp(222,73): error C2065: 'customer': undeclared identifier
+D:\visual studio programs\ASK_project\ASK_project\ASK_project.cpp(222,108): error C2065: 'customer': undeclared identifier
+D:\visual studio programs\ASK_project\ASK_project\ASK_project.cpp(222,137): error C2065: 'customer': undeclared identifier
+D:\visual studio programs\ASK_project\ASK_project\ASK_project.cpp(338,4): warning C4551: function call missing argument list
